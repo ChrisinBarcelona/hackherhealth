@@ -39,7 +39,7 @@
 
 ### Day 01
 - [ ] Start time on 12.04.2024
-- [ ] List of Event 
+- [ ] List of Events
 
 01. Opening Welcome
 02. Welcome Warm Up
