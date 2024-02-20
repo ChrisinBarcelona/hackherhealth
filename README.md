@@ -35,30 +35,33 @@
 -  [ ]  Challenge 04 Name
 -  [ ]  Challenge 04 Short Description
 
-## 4-Day Schedule (Home Page Section ) 
-
 ### Day 01: 12.04.2024: Start Time
+Day 01 Schedule of Events
 
-- [ ] Welcome 
-- [ ] Start Time
-- [ ] Event
-- [ ] Start Time 
+01. Opening Welcome
+02. Welcome Warm Up
+03. 
 
-Day 02: 13.04.2024: Start Time 
+### Day 02: 13.04.2024: Start Time 
+Day 02 Schedule of Events
 
-- [ ] Event
-- [ ] Start Time 
+01. 
+02. 
+03. 
 
 ### Day 03: 14.04.2024: Start Time
+Day 03 Schedule of Events
 
-- [ ] Event
-- [ ] Start Time 
+01. 
+02.
+03.
 
--  [ ] Day 04: 15.04.2024: Start Time 
+### Day 04: 15.04.2024 
+Day 04 Schedule of Events
 
-+ Ad Infinatum
-+ Ad Infinatum
-12. Winner's Ceremony
+01.
+02.
+03. Winner's Ceremony
 
 ## Roles 
 
