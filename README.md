@@ -72,16 +72,16 @@
 # Challenges Page 
 
 -  [ ] Challenge 01 Long Description
-- Resources (Please specify, thank you) 
+-  [ ]  Resources (Please specify, thank you) 
 
 -  [ ] Challenge 02 Long Description
-- Resources (Please specify, thank you) 
+-  [ ]  Resources (Please specify, thank you) 
 
 -  [ ]  Challenge 03 Long Description
-- Resources (Please specify, thank you) 
+-  [ ]  Resources (Please specify, thank you) 
 
 -  [ ]  Challenge 04 Long Description
-- Resources (Please specify, thank you) 
+-  [ ]  Resources (Please specify, thank you) 
 
 ## Prices (Please specify, thank you) 
 
