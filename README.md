@@ -37,23 +37,22 @@
 
 ## 4-Day Schedule (Home Page Section ) 
 
--  [ ] Day 01: 12.04.2024: Start Time
+### Day 01: 12.04.2024: Start Time
 
-01. Opening Welcome
-02. Welcome Warm Up
-+ Ad Infinatum 
+- [ ] Welcome 
+- [ ] Start Time
+- [ ] Event
+- [ ] Start Time 
 
--  [ ] Day 02: 13.04.2024: Start Time 
+Day 02: 13.04.2024: Start Time 
 
-+ Ad Infinatum
-+ Ad Infinatum
-+ Ad Infinatum
+- [ ] Event
+- [ ] Start Time 
 
--  [ ] Day 03: 14.04.2024: Start Time
+### Day 03: 14.04.2024: Start Time
 
-+ Ad Infinatum
-+ Ad Infinatum
-+ Ad Infinatum
+- [ ] Event
+- [ ] Start Time 
 
 -  [ ] Day 04: 15.04.2024: Start Time 
 
