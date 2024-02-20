@@ -39,22 +39,27 @@
 
 -  [ ] Day 01: 12.04.2024: Start Time
 
-- 01. Opening Welcome
-- 02. Welcome Warm Up
+01. Opening Welcome
+02. Welcome Warm Up
 + Ad Infinatum 
 
 -  [ ] Day 02: 13.04.2024: Start Time 
 
 + Ad Infinatum
++ Ad Infinatum
++ Ad Infinatum
 
 -  [ ] Day 03: 14.04.2024: Start Time
 
++ Ad Infinatum
++ Ad Infinatum
 + Ad Infinatum
 
 -  [ ] Day 04: 15.04.2024: Start Time 
 
 + Ad Infinatum
-- 16. Winner's Ceremony
++ Ad Infinatum
+12. Winner's Ceremony
 
 ## Roles 
 
@@ -72,16 +77,12 @@
 # Challenges Page 
 
 -  [ ] Challenge 01 Long Description
--  [ ]  Resources (Please specify, thank you) 
-
+-  [ ]  Resources (Specify, thank you) 
 -  [ ] Challenge 02 Long Description
--  [ ]  Resources (Please specify, thank you) 
-
+-  [ ]  Resources (Specify) 
 -  [ ]  Challenge 03 Long Description
--  [ ]  Resources (Please specify, thank you) 
-
+-  [ ]  Resources (Specify) 
 -  [ ]  Challenge 04 Long Description
--  [ ]  Resources (Please specify, thank you) 
-
-## Prices (Please specify, thank you) 
+-  [ ]  Resources (Specify) 
+-  [ ]  Prices (Specify) 
 
