@@ -8,10 +8,10 @@
 
 ## Speakers
 
-### Speaker Headshot
-### Speaker Name
-### Speaker Title 
-### Date / Time of Speech (If Applicable)
+- Speaker Headshot
+- Speaker Name
+- Speaker Title 
+- Date / Time of Speech (If Applicable)
 
 ## Timeline
 
