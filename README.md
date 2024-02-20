@@ -43,35 +43,35 @@ Day 01 Schedule of Events
 
 01. Opening Welcome
 02. Welcome Warm Up
-03. 
+03. (Ad Infinitum)
 
 ### Day 02: 13.04.2024: Start Time 
 Day 02 Schedule of Events
 
-01. 
-02. 
-03. 
+01. (Ad Infinitum)
+02. (Ad Infinitum) 
+03. (Ad Infinitum)
 
 ### Day 03: 14.04.2024: Start Time
 Day 03 Schedule of Events
 
-01. 
-02.
-03.
+01. (Ad Infinitum)
+02. (Ad Infinitum)
+03. (Ad Infinitum)
 
 ### Day 04: 15.04.2024 
 Day 04 Schedule of Events
 
-01.
-02.
+01. (Ad Infinitum)
+02. (Ad Infinitum)
 03. Winner's Ceremony
 
 ## Roles 
 
-## Team Member Headshot
-## Team Member Name
-## Team Member Job Position
-## Team Member Vanity URL from Linkedin (i,e: linkedin.com/in/chriskellyux)
+### Team Member Headshot
+### Team Member Name
+### Team Member Job Position
+### Team Member Vanity URL from Linkedin (i,e: linkedin.com/in/chriskellyux)
 
 # Blog 
 
