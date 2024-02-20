@@ -47,7 +47,7 @@
 
 ### Day 02
 - [ ] Day Start time on 13.04.2024
-- [ ] List of Event
+- [ ] List of Events
 
 ### Day 03
 - [ ] Day Start time on 14.04.2024
