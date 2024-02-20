@@ -27,13 +27,13 @@
 ## Challenges Home Page Preview 
 
 -  [ ]  Challenge 01 Name
-- Challenge 01 Short Description
+-  [ ]  Challenge 01 Short Description
 -  [ ]  Challenge 02 Name
-- Challenge 02 Short Description
+-  [ ]  Challenge 02 Short Description
 -  [ ]  Challenge 03 Name
-   Challenge 03 Short Description
+-  [ ]  Challenge 03 Short Description
 -  [ ]  Challenge 04 Name
-- Challenge 04 Short Description
+-  [ ]  Challenge 04 Short Description
 
 ## 4-Day Schedule (Home Page Section ) 
 
