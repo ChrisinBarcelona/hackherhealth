@@ -1,4 +1,4 @@
-# Home Page
+# Hackherhealth Home Page
 
 ## Purple Hero Header 
 
@@ -24,7 +24,7 @@
 
 -  [ ] Sponsor Logo in .png or .svg format
 
-## Challenges Home Page Preview 
+## Challenges Home Page Preview
 
 -  [ ]  Challenge 01 Name
 -  [ ]  Challenge 01 Short Description
@@ -68,7 +68,7 @@
 -  [ ] Team Member Job Position
 -  [ ] Team Member Vanity URL from Linkedin (i,e: linkedin.com/in/chriskellyux)
 
-# Blog 
+# Blog Page 
 
 -  [ ] Blog Article Title
 -  [ ] Blog Article Copy
@@ -77,7 +77,7 @@
 # Challenges Page 
 
 -  [ ] Challenge 01 Long Description
--  [ ]  Resources (Specify, thank you) 
+-  [ ] Resources (Specify, thank you) 
 -  [ ] Challenge 02 Long Description
 -  [ ]  Resources (Specify) 
 -  [ ]  Challenge 03 Long Description
