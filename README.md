@@ -1,4 +1,4 @@
-# Digital Assets Required
+# Assets Requests
 # Hackherhealth Home Page 
 
 ## Purple Hero Header 
@@ -23,18 +23,9 @@
  
 ## Sponsors
 
--  [ ] Sponsor Logo in .png or .svg format
-
-## Challenges Home Page Preview
-
--  [ ]  Challenge 01 Name
--  [ ]  Challenge 01 Short Description
--  [ ]  Challenge 02 Name
--  [ ]  Challenge 02 Short Description
--  [ ]  Challenge 03 Name
--  [ ]  Challenge 03 Short Description
--  [ ]  Challenge 04 Name
--  [ ]  Challenge 04 Short Description
+-  [ ] List of Sponsors 
+-  [ ] Sponsor Logo in .png or .svg format 
+-  [ ] Sponsor Websites for links on links 
 
 ## 4-Day Schedule Home Page Section 
 
@@ -74,16 +65,4 @@
 -  [ ] Blog Article Title
 -  [ ] Blog Article Copy
 -  [ ] Blog Article Images (If Applicable)
-
-# Challenges Page 
-
--  [ ] Challenge 01 Long Description
--  [ ] Resources (Specify, thank you) 
--  [ ] Challenge 02 Long Description
--  [ ]  Resources (Specify) 
--  [ ]  Challenge 03 Long Description
--  [ ]  Resources (Specify) 
--  [ ]  Challenge 04 Long Description
--  [ ]  Resources (Specify) 
--  [ ]  Prices (Specify) 
 
