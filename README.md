@@ -2,9 +2,9 @@
 
 ## Purple Hero Header 
 
--[ ] Purple Background Image in .jpg
--[ ] Heart Logo in .png format
--[ ] Start Time on 12.04.2024 for countdown
+[ ] Purple Background Image in .jpg
+[ ] Heart Logo in .png format
+[ ] Start Time on 12.04.2024 for countdown
 
 ## Speakers
 
